@@ -1,0 +1,2 @@
+Coffee,250,Drinks
+Burger,500,Fast Food
